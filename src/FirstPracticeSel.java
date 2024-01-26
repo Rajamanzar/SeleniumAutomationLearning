@@ -23,7 +23,7 @@ public class FirstPracticeSel {
 		driver.get("https://login.salesforce.com");
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getCurrentUrl());
-		
+		System.out.println("Git Change");
 	}
 
 }
