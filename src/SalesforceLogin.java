@@ -29,7 +29,7 @@ public class SalesforceLogin {
 		
 		
 		
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\hasna\\OneDrive\\Documents\\selenium chrome path\\ChromeDriver.exe");
+		//System.setProperty("webdriver.chrome.driver", "C:\\Users\\hasna\\OneDrive\\Documents\\selenium chrome path\\ChromeDriver.exe");
 		//WebDriver driver = new ChromeDriver();
 		
 		try {
