@@ -15,7 +15,7 @@ public class FirstPracticeSel {
 		
 		// ChromeDriver.exe -> Chrome Browser
 		
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\hasna\\Downloads\\chromedriver_win32\\chromedriver.exe");
+		//System.setProperty("webdriver.chrome.driver", "C:\\Users\\hasna\\Downloads\\chromedriver_win32\\chromedriver.exe");
 		
 		// webdriver.chrome.driver => value of path
 		
